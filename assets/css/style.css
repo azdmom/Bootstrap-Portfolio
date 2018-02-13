@@ -1,0 +1,132 @@
+body {
+  color: #777;
+  background: url("../images/concrete_seamless.png");
+  padding-bottom: 65px;
+}
+
+/* How can I change the size of the nav box */
+.navbar{
+  color: #fff;
+  background: #fff !important;
+}
+
+.navbar-brand{
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700 !important;
+  font-size: 30px !important;
+  padding-left: 40px !important;
+  margin-top: 20px;
+  color: #fff !important;
+  text-align: center;
+}
+.navbar-header{
+  width: 250px !important;
+  height: 90px !important;
+  background-color: #4aaaa5 !important;
+}
+.breadcrumb{
+  margin: 30px auto !important;
+  line-height: 18px;
+  background-color: #fff !important;
+  color: #999 !important;
+  font-size: 18px;
+}
+
+  a:link {
+    color: #999;
+    }
+    a:visited {
+    color: #999;
+    }
+    a:hover {
+    color: #999;
+    }
+
+
+.dritanavbar {
+ padding: 0 105px;
+ background-color: #ffffff !important;
+
+}
+
+.AboutMe{
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  border-bottom: 3px solid #ddd;
+  color: #4aaaa5 !important;
+}
+
+.Portfolio{
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  border-bottom: 3px solid #ddd;
+  color: #4aaaa5;
+  display: inline;
+}
+
+.connect{
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  font-size: 22px;
+  border-bottom: 3px solid #ddd;
+  color: #4aaaa5;
+  width: 100%;
+  max-width: 270px;
+  padding-bottom: 20px;
+  margin: 10px 20px;
+}
+
+.dritaimg{
+  width: 200px;
+  height:auto;
+}
+
+.social{
+  width: 62px;
+  height: 62px;
+  display: inline;
+  margin: 20px 0;
+}
+
+.sidebarPanel{
+  text-align: center;
+}
+
+.work img{
+  width:100%;
+  height: auto;
+}
+
+.work h3 {
+  position: relative;
+  bottom: 20px;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 30px;
+  text-align: center;
+  border-bottom: 0;
+  overflow: auto;
+}
+
+.contactme{
+  font-family: Georgia, Times, "Times New Roman", serif;
+  border-bottom: 3px solid #ddd;
+  font-weight: 700;
+  color: #4aaaa5;
+}
+
+.contactform{
+  padding: 20px;
+}
+
+/* Footer  */
+.container1{
+  text-align: center;
+  padding: 10px;
+  font-size: 15px;
+  background: #666666;
+  color: #fff;
+}
+
